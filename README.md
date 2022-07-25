@@ -3,7 +3,7 @@
 ## Project Overview
 As a new data analyst at PyBer, a ride-sharing app, I was tasked with analyzing all the rideshare data from January to early May of 2019. This analysis consisted of a review of driver, fare and city information for rides in three city types: urban, suburban, and rural. In addition to my analysis, I created a visualization of my findings to be presented to the company CEO. Some of this initial analysis involved the summarization of the percentage of fares by city type, percentage of drivers for each city type and average number of drivers for each city type.
 
-After completing my initial analysis, I was given a new assignment requiring the creation of a summary DataFrame of the ride-sharing data, as well as a multiple-line graph that shows the total weekly fares for each city type. The goal of this additional analysis is to identify differences by city type, information that is beneficial information for the decision-makers at PyBer.
+After completing my initial analysis, I was given a new assignment requiring the creation of a summary DataFrame of the ride-sharing data, as well as a multiple-line graph that shows the total weekly fares for each city type. The goal of this additional analysis is to identify differences by city type, information that is beneficial for the decision-makers at PyBer.
 
 ### Results
 
